@@ -7,4 +7,3 @@ except(ZeroDivisionError):
     print('cannot divide by zero')
 except(ValueError):
     print('Enter numeric values only')
-    
